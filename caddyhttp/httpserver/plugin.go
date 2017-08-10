@@ -484,6 +484,7 @@ var directives = []string{
 	"push",
 	"datadog",    // github.com/payintech/caddy-datadog
 	"prometheus", // github.com/miekg/caddy-prometheus
+	"oauth",      // github.com/itsyouonline/caddy-integration
 	"proxy",
 	"fastcgi",
 	"cgi", // github.com/jung-kurt/caddy-cgi

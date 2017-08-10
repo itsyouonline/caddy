@@ -20,7 +20,8 @@ import (
 	_ "github.com/mholt/caddy/caddyhttp"
 
 	"github.com/mholt/caddy/caddytls"
-	// This is where other plugins get plugged in (imported)
+	
+	"github.com/tsyouonline/caddy-integration/oauth"
 )
 
 func init() {
