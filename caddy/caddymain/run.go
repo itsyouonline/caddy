@@ -21,7 +21,7 @@ import (
 
 	"github.com/mholt/caddy/caddytls"
 	
-	"github.com/tsyouonline/caddy-integration/oauth"
+	_ "github.com/itsyouonline/caddy-integration/oauth"
 )
 
 func init() {
