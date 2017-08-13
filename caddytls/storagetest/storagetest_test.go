@@ -7,7 +7,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/mholt/caddy/caddytls"
+	"github.com/itsyouonline/caddy/caddytls"
 )
 
 // TestFileStorage tests the file storage set with the test harness in this

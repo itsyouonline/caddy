@@ -15,7 +15,7 @@ import (
 	"time"
 
 	"github.com/gorilla/websocket"
-	"github.com/mholt/caddy/caddyhttp/httpserver"
+	"github.com/itsyouonline/caddy/caddyhttp/httpserver"
 )
 
 const (

@@ -7,7 +7,7 @@ import (
 	"path"
 	"strings"
 
-	"github.com/mholt/caddy/caddyhttp/httpserver"
+	"github.com/itsyouonline/caddy/caddyhttp/httpserver"
 )
 
 // To attempts rewrite. It attempts to rewrite to first valid path

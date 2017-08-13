@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/mholt/caddy/caddyhttp/httpserver"
+	"github.com/itsyouonline/caddy/caddyhttp/httpserver"
 )
 
 // ExpVar is a simple struct to hold expvar's configuration

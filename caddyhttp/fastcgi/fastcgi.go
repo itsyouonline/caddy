@@ -18,7 +18,7 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/mholt/caddy/caddyhttp/httpserver"
+	"github.com/itsyouonline/caddy/caddyhttp/httpserver"
 )
 
 // Handler is a middleware type that can handle requests as a FastCGI client.

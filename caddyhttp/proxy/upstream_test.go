@@ -10,7 +10,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/mholt/caddy/caddyfile"
+	"github.com/itsyouonline/caddy/caddyfile"
 )
 
 func TestNewHost(t *testing.T) {

@@ -1,8 +1,8 @@
 package pprof
 
 import (
-	"github.com/mholt/caddy"
-	"github.com/mholt/caddy/caddyhttp/httpserver"
+	"github.com/itsyouonline/caddy"
+	"github.com/itsyouonline/caddy/caddyhttp/httpserver"
 )
 
 func init() {

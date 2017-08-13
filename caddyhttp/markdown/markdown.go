@@ -11,7 +11,7 @@ import (
 	"text/template"
 	"time"
 
-	"github.com/mholt/caddy/caddyhttp/httpserver"
+	"github.com/itsyouonline/caddy/caddyhttp/httpserver"
 	"github.com/russross/blackfriday"
 )
 

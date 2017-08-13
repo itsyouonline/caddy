@@ -17,8 +17,8 @@ import (
 
 	"crypto/tls"
 
-	"github.com/mholt/caddy/caddyfile"
-	"github.com/mholt/caddy/caddyhttp/httpserver"
+	"github.com/itsyouonline/caddy/caddyfile"
+	"github.com/itsyouonline/caddy/caddyhttp/httpserver"
 )
 
 var (

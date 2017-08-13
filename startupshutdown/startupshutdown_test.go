@@ -7,7 +7,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/mholt/caddy"
+	"github.com/itsyouonline/caddy"
 )
 
 // The Startup function's tests are symmetrical to Shutdown tests,

@@ -5,9 +5,9 @@ import (
 	"io/ioutil"
 	"os"
 
-	"github.com/mholt/caddy/caddyhttp/httpserver"
-	"github.com/mholt/caddy/caddyhttp/markdown/metadata"
-	"github.com/mholt/caddy/caddyhttp/markdown/summary"
+	"github.com/itsyouonline/caddy/caddyhttp/httpserver"
+	"github.com/itsyouonline/caddy/caddyhttp/markdown/metadata"
+	"github.com/itsyouonline/caddy/caddyhttp/markdown/summary"
 	"github.com/russross/blackfriday"
 )
 

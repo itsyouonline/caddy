@@ -5,8 +5,8 @@ import (
 	"io/ioutil"
 	"text/template"
 
-	"github.com/mholt/caddy/caddyhttp/httpserver"
-	"github.com/mholt/caddy/caddyhttp/markdown/metadata"
+	"github.com/itsyouonline/caddy/caddyhttp/httpserver"
+	"github.com/itsyouonline/caddy/caddyhttp/markdown/metadata"
 )
 
 // Data represents a markdown document.

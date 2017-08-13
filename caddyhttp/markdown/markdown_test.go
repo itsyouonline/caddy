@@ -9,8 +9,8 @@ import (
 	"testing"
 	"text/template"
 
-	"github.com/mholt/caddy"
-	"github.com/mholt/caddy/caddyhttp/httpserver"
+	"github.com/itsyouonline/caddy"
+	"github.com/itsyouonline/caddy/caddyhttp/httpserver"
 	"github.com/russross/blackfriday"
 )
 

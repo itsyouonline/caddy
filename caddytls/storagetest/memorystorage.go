@@ -5,7 +5,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/mholt/caddy/caddytls"
+	"github.com/itsyouonline/caddy/caddytls"
 )
 
 // memoryMutex is a mutex used to control access to memoryStoragesByCAURL.

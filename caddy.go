@@ -6,7 +6,7 @@
 //   2. Call LoadCaddyfile() to get the Caddyfile.
 //      Pass in the name of the server type (like "http").
 //      Make sure the server type's package is imported
-//      (import _ "github.com/mholt/caddy/caddyhttp").
+//      (import _ "github.com/itsyouonline/caddy/caddyhttp").
 //   3. Call caddy.Start() to start Caddy. You get back
 //      an Instance, on which you can call Restart() to
 //      restart it or Stop() to stop it.
@@ -28,7 +28,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/mholt/caddy/caddyfile"
+	"github.com/itsyouonline/caddy/caddyfile"
 )
 
 // Configurable application parameters

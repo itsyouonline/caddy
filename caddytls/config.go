@@ -10,7 +10,7 @@ import (
 	"strings"
 
 	"github.com/codahale/aesnicheck"
-	"github.com/mholt/caddy"
+	"github.com/itsyouonline/caddy"
 	"github.com/xenolf/lego/acme"
 )
 

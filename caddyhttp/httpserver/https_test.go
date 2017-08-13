@@ -7,7 +7,7 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	"github.com/mholt/caddy/caddytls"
+	"github.com/itsyouonline/caddy/caddytls"
 )
 
 func TestRedirPlaintextHost(t *testing.T) {

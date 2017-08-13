@@ -23,8 +23,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/mholt/caddy/caddyfile"
-	"github.com/mholt/caddy/caddyhttp/httpserver"
+	"github.com/itsyouonline/caddy/caddyfile"
+	"github.com/itsyouonline/caddy/caddyhttp/httpserver"
 
 	"golang.org/x/net/websocket"
 )

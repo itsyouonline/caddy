@@ -7,7 +7,7 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/mholt/caddy/caddyhttp/httpserver"
+	"github.com/itsyouonline/caddy/caddyhttp/httpserver"
 )
 
 func TestTemplates(t *testing.T) {

@@ -17,8 +17,8 @@ import (
 	"time"
 
 	"github.com/dustin/go-humanize"
-	"github.com/mholt/caddy/caddyhttp/httpserver"
-	"github.com/mholt/caddy/caddyhttp/staticfiles"
+	"github.com/itsyouonline/caddy/caddyhttp/httpserver"
+	"github.com/itsyouonline/caddy/caddyhttp/staticfiles"
 )
 
 const (

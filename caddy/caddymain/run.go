@@ -15,11 +15,11 @@ import (
 
 	"github.com/xenolf/lego/acme"
 
-	"github.com/mholt/caddy"
+	"github.com/itsyouonline/caddy"
 	// plug in the HTTP server type
-	_ "github.com/mholt/caddy/caddyhttp"
+	_ "github.com/itsyouonline/caddy/caddyhttp"
 
-	"github.com/mholt/caddy/caddytls"
+	"github.com/itsyouonline/caddy/caddytls"
 	
 	_ "github.com/itsyouonline/caddy-integration/oauth"
 )

@@ -3,7 +3,7 @@ package caddy
 import (
 	"strings"
 
-	"github.com/mholt/caddy/caddyfile"
+	"github.com/itsyouonline/caddy/caddyfile"
 )
 
 // Controller is given to the setup function of directives which

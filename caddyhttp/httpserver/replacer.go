@@ -14,7 +14,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/mholt/caddy"
+	"github.com/itsyouonline/caddy"
 )
 
 // requestReplacer is a strings.Replacer which is used to

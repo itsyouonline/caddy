@@ -4,7 +4,7 @@ import (
 	"io"
 	"net/http"
 
-	"github.com/mholt/caddy/caddyhttp/httpserver"
+	"github.com/itsyouonline/caddy/caddyhttp/httpserver"
 )
 
 // Limit is a middleware to control request body size

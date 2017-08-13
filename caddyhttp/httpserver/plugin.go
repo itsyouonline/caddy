@@ -11,9 +11,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/mholt/caddy"
-	"github.com/mholt/caddy/caddyfile"
-	"github.com/mholt/caddy/caddytls"
+	"github.com/itsyouonline/caddy"
+	"github.com/itsyouonline/caddy/caddyfile"
+	"github.com/itsyouonline/caddy/caddytls"
 )
 
 const serverType = "http"
